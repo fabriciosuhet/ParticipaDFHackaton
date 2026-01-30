@@ -85,7 +85,7 @@ git clone git@github.com:fabriciosuhet/ParticipaDFHackaton.git
 
 **2. Acesse a pasta do projeto**
 ```bash
-cd SolucaoParticipaDF
+cd ParticipaDFHackaton
 ```
 
 **2. Execute via Docker Compose:**
