@@ -6,6 +6,12 @@
 
 ## 📄 Resumo do Projeto
 
+## 🎥 Vídeo de Demonstração
+
+[![Assista ao Vídeo](https://img.youtube.com/vi/COLOQUE_O_ID_AQUI/0.jpg)](https://youtu.be/Goj6iOCr9e4)
+
+> Clique na imagem acima para assistir à demonstração da solução (YouTube).
+
 **Categoria:** Desafio 1 - Acesso à Informação
 
 Esta solução consiste em uma API RESTful de alta performance construída em **.NET 9** e containerizada com **Docker**, projetada para auditar arquivos de pedidos públicos (`.xlsx`) e identificar automaticamente dados pessoais sensíveis, garantindo a conformidade com a LGPD.
