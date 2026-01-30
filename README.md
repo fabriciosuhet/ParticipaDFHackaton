@@ -69,12 +69,22 @@ A aplicação foi totalmente containerizada. **Você não precisa ter o .NET ins
 
 ### Passo a Passo
 
-**1. Clone o repositório** (ou extraia os arquivos na sua máquina):
+**1. Clone o repositório**
 
+Escolha uma das opções abaixo para clonar:
+
+**Opção 1: HTTPS**
 ```bash
-git clone https://github.com/fabriciosuhet/ParticipaDFHackaton.git |  https
- ou 
-git clone git@github.com:fabriciosuhet/ParticipaDFHackaton.git | ssh
+git clone https://github.com/fabriciosuhet/ParticipaDFHackaton.git
+```
+
+**Opção 2: SSH**
+```bash
+git clone git@github.com:fabriciosuhet/ParticipaDFHackaton.git
+```
+
+**2. Acesse a pasta do projeto**
+```bash
 cd SolucaoParticipaDF
 ```
 
