@@ -228,6 +228,6 @@ Este projeto foi desenvolvido exclusivamente para o **1º Hackathon em Controle 
 
 ## 🏆 Agradecimentos
 
-Agradecemos à organização do **Participa DF** pela oportunidade de contribuir com soluções tecnológicas para o fortalecimento da transparência pública e da proteção de dados pessoais no Distrito Federal.
+Agradeço à organização do **Participa DF** pela oportunidade de contribuir com soluções tecnológicas para o fortalecimento da transparência pública e da proteção de dados pessoais no Distrito Federal.
 
 ---
